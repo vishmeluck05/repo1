@@ -1,0 +1,12 @@
+ Volume in drive C is OS
+ Volume Serial Number is 6C70-90E9
+
+ Directory of C:\Users\vishwanath Rao\Desktop\MyProject
+
+22-05-2020  15:59    <DIR>          .
+22-05-2020  15:59    <DIR>          ..
+22-05-2020  14:00                22 index.html
+22-05-2020  14:20                12 test1.txt
+22-05-2020  15:59                 0 test2.txt
+               3 File(s)             34 bytes
+               2 Dir(s)  902,555,222,016 bytes free
